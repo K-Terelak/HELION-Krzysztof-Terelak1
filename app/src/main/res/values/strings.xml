@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HELION-Krzysztof-Terelak</string>
+    <string name="couldnt_load_categories">Nie udało się załadować</string>
+    <string name="error_icon">error icon</string>
+    <string name="name_not_found">Brak nazwy</string>
+</resources>

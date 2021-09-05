@@ -1,7 +1,12 @@
 # HELION JetpackCompose
 <img width="64" src="https://user-images.githubusercontent.com/78376240/132123912-4fed13cd-76b9-43de-8881-effba5b4d263.PNG">
 
-# Tech stack
+## Versions
+- <a href="https://github.com/K-Terelak/HELION-Krzysztof-Terelak1">using Jetpack Compose</a>
+- <a href="https://github.com/K-Terelak/HELION-Krzysztof-Terelak2">using XML</a>
+
+
+### Tech stack
 - JetpackCompose
 - Hilt
 - Retrofit
@@ -9,7 +14,7 @@
 - StateFlow
 
 
-# Screenshot
+### Screenshot
 | Light Theme | Dark Theme |
 | ----------- | ---------- |
 | <img height="500" src="https://user-images.githubusercontent.com/78376240/132123955-5198c532-2484-4f36-b7ea-c8da26b37024.png"> | <img height="500" src="https://user-images.githubusercontent.com/78376240/132123960-cedc0df8-a03d-404d-834b-c2306b649942.png"> |

@@ -5,6 +5,9 @@
 - JetpackCompose
 - Hilt
 - Retrofit
+- Coroutine
+- StateFlow
+
 
 # Screenshot
 | Light Theme | Dark Theme |
